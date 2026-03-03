@@ -1,1 +1,19 @@
+# Case 2 — Marginal Attack (P4_gentle_mound.qasm)
 
+- Method: Marginal reconstruction via single-qubit ⟨Z_i⟩
+- Circuit: P4_gentle_mound.qasm
+- Qubits: 40+
+
+## Result
+Peak bitstring inferred:
+
+0110101000010111001100100001010001101101
+
+## Method
+
+Each bit was inferred from the sign of the single-qubit expectation value:
+
+- ⟨Z_i⟩ > 0 ⇒ bit 0 favored  
+- ⟨Z_i⟩ < 0 ⇒ bit 1 favored  
+
+The full peak string was reconstructed without full statevector simulation.
