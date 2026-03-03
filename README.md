@@ -39,3 +39,12 @@ This project investigates:
 - Entanglement sensitivity
 - Trade-offs between accuracy and runtime
 
+
+## References
+
+This project follows and implements methods described in:
+
+- BlueQubit SDK Examples – Peaked Circuits Tutorial  
+  https://app.bluequbit.io/tutorial/91OgcR5O1GqFpues  
+
+- MIT × BlueQubit Peaked Circuits Hackathon
