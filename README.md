@@ -48,3 +48,4 @@ This project follows and implements methods described in:
   https://app.bluequbit.io/tutorial/91OgcR5O1GqFpues  
 
 - MIT × BlueQubit Peaked Circuits Hackathon
+- Gharibyan et al., *Heuristic Quantum Advantage with Peaked Circuits*, arXiv:2510.25838.
