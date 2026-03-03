@@ -12,5 +12,5 @@ Case–Circuit Mapping
 - Case 1 (MPS, P1_little_peak.qasm): peak bitstring = **1001**
 - Case 2 (Marginal Attack, P4_gentle_mound.qasm):
   peak = 0110101000010111001100100001010001101101
-
+-Case 3 (Pauli-Path, P7_rolling_ridge.qasm): peak = 0110001011111111110011110001000010011011100000 (reversed for bit-order convention)
 
