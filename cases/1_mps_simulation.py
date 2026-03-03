@@ -16,7 +16,7 @@ bq = bluequbit.init()
 
 
 # --------------------------
-# Get Circuits (as in tutorial)
+# Get Circuits
 # --------------------------
 def load_qasm(name: str) -> QuantumCircuit:
     """
