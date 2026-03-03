@@ -4,12 +4,12 @@
 - Circuit: P4_gentle_mound.qasm
 - Qubits: 40+
 
-# Result
+## Result
 Peak bitstring inferred:
 
 0110101000010111001100100001010001101101
 
-# Method
+## Method
 
 Each bit was inferred from the sign of the single-qubit expectation value:
 
